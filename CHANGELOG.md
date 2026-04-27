@@ -12,3 +12,6 @@ Creación de la clase FineAnalyzer y análisis de infracciones.
 
 # Día 5
 Generación de gráficos para el análisis de infracciones.
+
+# Día 6
+Cálculo de métricas avanzadas y exportación de datos.
