@@ -15,3 +15,6 @@ Generación de gráficos para el análisis de infracciones.
 
 # Día 6
 Cálculo de métricas avanzadas y exportación de datos.
+
+# Día 7
+Redacción de conclusiones finales.
