@@ -6,3 +6,6 @@ Descarga de dataset raw y análisis inicial de nulos y tipos dedatos.
 
 # Día 3
 Normalización de datos, tratamiento de outliers y cálculo deinfracciones.
+
+# Día 4
+Creación de la clase FineAnalyzer y análisis de infracciones.
