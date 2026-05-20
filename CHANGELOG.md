@@ -18,3 +18,6 @@ Cálculo de métricas avanzadas y exportación de datos.
 
 # Día 7
 Redacción de conclusiones finales.
+
+# Día 8
+Aplicacion de correcciones en el dataset sugerido por el profesor.
