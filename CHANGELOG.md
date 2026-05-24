@@ -21,3 +21,6 @@ Redacción de conclusiones finales.
 
 # Día 8
 Aplicacion de correcciones en el dataset sugerido por el profesor.
+
+# Día 9
+Comienzo de sprint 2, descarga del dataset de imágenes y creación de la rama.
