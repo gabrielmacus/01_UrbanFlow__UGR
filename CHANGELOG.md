@@ -33,3 +33,11 @@ Ejercicio 03: Procesamiento de imágenes con OpenCV (Grayscale, Blur y Canny).
 
 # Día 12
 Ejercicio 04: Extracción de patentes con OCR y cruce de datos con el dataset de multas (matching > 80%).
+
+# Día 13
+Ejercicio 05: Cálculo de métricas y estadísticas del dataset final.
+- Multas sin imágenes: 520
+- Multas con imágenes: 781
+- Imágenes sin coincidencia (match): 66
+- Multas pendientes de pago totales: 649
+- Multas pendientes con evidencia visual: 391
