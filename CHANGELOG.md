@@ -30,3 +30,6 @@ Ejercicio 02: Clasificación de imágenes en plates y completes, y creación del
 
 # Día 11
 Ejercicio 03: Procesamiento de imágenes con OpenCV (Grayscale, Blur y Canny).
+
+# Día 12
+Ejercicio 04: Extracción de patentes con OCR y cruce de datos con el dataset de multas (matching > 80%).
