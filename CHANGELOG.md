@@ -27,3 +27,6 @@ Comienzo de sprint 2, descarga del dataset de imágenes y creación de la rama.
 
 # Día 10
 Ejercicio 02: Clasificación de imágenes en plates y completes, y creación del diccionario group_images.json.
+
+# Día 11
+Ejercicio 03: Procesamiento de imágenes con OpenCV (Grayscale, Blur y Canny).
