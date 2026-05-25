@@ -41,3 +41,6 @@ Ejercicio 05: Cálculo de métricas y estadísticas del dataset final.
 - Imágenes sin coincidencia (match): 66
 - Multas pendientes de pago totales: 649
 - Multas pendientes con evidencia visual: 391
+
+# Día 14
+Ejercicio 06: Redacción de conclusiones finales.
