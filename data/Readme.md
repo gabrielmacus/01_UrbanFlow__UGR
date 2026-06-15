@@ -10,3 +10,13 @@
 * Muchas veces la patente se funde visualmente con el vehículo, lo que dificulta enormemente la detección a través de tratamientos tradicionales de imagen como binarización y operaciones morfológicas.
 * En lo que respecta al reconocimiento de caracteres, si bien estamos usando un modelo de IA, al ser generalista es difícil obtener un match exacto debido a las condiciones mencionadas.
 * Para un entorno de producción, se sugiere usar un modelo que esté entrenado específicamente para la detección de patentes en el contexto de un vehículo (ya sea trompa o parte trasera) y el reconocimiento de caracteres especializado en recortes de chapas patentes.
+
+## Conclusiones Sprint 3
+
+El principal aprendizaje de este Sprint es el gran valor que aporta combinar sistemas clásicos con inteligencia artificial. A partir del trabajo realizado, destacamos dos puntos clave:
+
+**1. Búsqueda Inversa para Datos Incompletos:**
+Al combinar una base de datos relacional tradicional con una base de datos vectorial (ChromaDB), logramos un sistema mucho más robusto. Si una cámara toma una foto pero la patente sale borrosa u ocluida y el sistema clásico falla, podemos buscar el vehículo por "similitud visual" usando la vectorización. Esto nos permite hacer una imputación tentativa de los datos y no perder la infracción, dejándola lista para que alguien la valide después.
+
+**2. Versionado Inteligente de Datos:**
+Las bases de datos y la inteligencia artificial generan archivos demasiado pesados para Git. Integrar una herramienta como DVC nos solucionó este problema: le quitamos presión al repositorio para no chocar con sus límites de tamaño, pero sin perder la capacidad de tener nuestra data correctamente versionada y rastreable.
