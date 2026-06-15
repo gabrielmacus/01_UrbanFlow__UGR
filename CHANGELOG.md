@@ -53,3 +53,6 @@ Migración a DVC: inicialización, configuración de remoto y migración en celd
 
 # Día 17
 Finalización del Ejercicio 03 (Modelo Lógico de Entidades y Relaciones).
+
+# Día 18
+Finalización del Ejercicio 05 Usando SQLALCHEMY. 
