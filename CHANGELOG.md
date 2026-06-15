@@ -68,3 +68,6 @@ Ejercicio 07: Implementación de consultas transaccionales con ORM SQLAlchemy pa
 
 # Día 22
 Ejercicio 08: Creación y poblado de Base de Datos Vectorial usando ChromaDB y OpenClip. Base de datos versionada correctamente con DVC.
+
+# Día 23
+Ejercicio 09: Implementación de búsqueda vectorial. 
