@@ -47,3 +47,6 @@ Ejercicio 06: Redacción de conclusiones finales.
 
 # Día 15
 Comienzo de sprint 3, descarga de los dataset de sprint 1 y 2 y creación de la rama nueva.
+
+# Día 16
+Migración a DVC: inicialización, configuración de remoto y migración en celdas separadas de imágenes y archivos CSV.
