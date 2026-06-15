@@ -62,3 +62,6 @@ Finalización del Ejercicio 04 (Función de mapeo procesar_fila_csv).
 
 # Día 20
 Ejercicio 06: Creación de base de datos transito y migración de datos con SQLAlchemy. Base de datos versionada en DVC.
+
+# Día 21
+Ejercicio 07: Implementación de consultas transaccionales con ORM SQLAlchemy para generar reportes estadísticos de infracciones.
