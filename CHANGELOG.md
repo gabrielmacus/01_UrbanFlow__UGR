@@ -44,3 +44,6 @@ Ejercicio 05: Cálculo de métricas y estadísticas del dataset final.
 
 # Día 14
 Ejercicio 06: Redacción de conclusiones finales.
+
+# Día 15
+Comienzo de sprint 3, descarga de los dataset de sprint 1 y 2 y creación de la rama nueva.

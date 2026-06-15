@@ -9,3 +9,7 @@ Procesamiento de evidencia visual mediante técnicas de visión artificial y OCR
 ### Objetivo
 
 Aplicar los conocimientos adquiridos para el versionado decódigo, la organización, limpieza del código y la utilización de pandas.
+
+
+## Sprint 3: Migración a Base de Datos y ORM
+El sistema evoluciona para manejar un mayor volumen y complejidad de información, migrando de archivos CSV a una arquitectura estructurada. Se implementa persistencia en una base de datos relacional utilizando **SQLAlchemy** como ORM, sentando las bases para el control de versiones de datos y preparando el entorno para futuras búsquedas avanzadas.
