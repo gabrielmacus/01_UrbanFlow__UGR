@@ -59,3 +59,6 @@ Finalización del Ejercicio 05 Usando SQLALCHEMY.
 
 # Día 19
 Finalización del Ejercicio 04 (Función de mapeo procesar_fila_csv).
+
+# Día 20
+Ejercicio 06: Creación de base de datos transito y migración de datos con SQLAlchemy. Base de datos versionada en DVC.
