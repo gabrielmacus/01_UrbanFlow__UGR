@@ -65,3 +65,6 @@ Ejercicio 06: Creación de base de datos transito y migración de datos con SQLA
 
 # Día 21
 Ejercicio 07: Implementación de consultas transaccionales con ORM SQLAlchemy para generar reportes estadísticos de infracciones.
+
+# Día 22
+Ejercicio 08: Creación y poblado de Base de Datos Vectorial usando ChromaDB y OpenClip. Base de datos versionada correctamente con DVC.
