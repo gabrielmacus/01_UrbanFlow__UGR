@@ -56,3 +56,6 @@ Finalización del Ejercicio 03 (Modelo Lógico de Entidades y Relaciones).
 
 # Día 18
 Finalización del Ejercicio 05 Usando SQLALCHEMY. 
+
+# Día 19
+Finalización del Ejercicio 04 (Función de mapeo procesar_fila_csv).
